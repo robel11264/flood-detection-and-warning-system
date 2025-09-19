@@ -1,11 +1,10 @@
 numpy
 pandas
-rasterio
-richdem
+rasterio==1.3.9
+richdem==0.3.4
 matplotlib
 scipy
 streamlit
 schedule
-python-telegram-bot
+python-telegram-bot==20.8
 requests
-
